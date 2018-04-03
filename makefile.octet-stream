@@ -1,0 +1,5 @@
+target:
+	g++ mobilShowcase.cpp -o mobilShowcase -lglut -lGL -lGLU
+
+run:
+	./mobilShowcase
